@@ -1,4 +1,7 @@
-# Hi I'm Nathan! You may know me from my roles as:
+# Hi 
+
+###I'm Nathan! You may know me from my roles as:
+
 #### - Inaugural Google Developer Student Club Alumni for Botswana International University of Science and Technology(BIUST) (2021)
 
 #### - Founding core member of the BIUST Innovation Club
