@@ -1,4 +1,4 @@
-# Hi 
+# Hi 👋
 
 ###  I'm Nathan! You may know me from my roles as:
 
@@ -13,5 +13,5 @@
 #### - Lead Developer at seipone.ai (AKA Seriti Insights)
 
 
-I'm mostly interested in Frontend Engineering and UX Design so feel free to reach out if you're interested in talking about those. Also if you feel like going through some of my public repos definitely do ,although it's a just a bunch of nothing repos of me learning how to code 😂.
+I'm mostly interested in Frontend Engineering and UX Design so feel free to reach out if you're interested in talking about those. Also if you feel like going through some of my public repos definitely do ,although it's a just a bunch of nothing repos of me learning how to code 😅.
 
