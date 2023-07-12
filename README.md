@@ -10,7 +10,7 @@
 
 #### - BIUST BSc Computer Science and Software Engineering Class of 2023
 
-#### - Lead Developer at seipone.ai (AKA Seriti Insights)
+#### - Former Lead Developer at seipone.ai (AKA Seriti Insights)
 
 
 I'm mostly interested in Frontend Engineering and UX Design so feel free to reach out on Twitter, LinkedIn or email(ntrankopo@gmail.com) if you're interested in talking to me about code. Also if you feel like going through some of my public repos definitely do ,although it's a just a bunch of nothing repos of me learning how to code 😅.
